@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 5px 20px;
+    border-radius: 5px;
+    transition: 1s;
+}
+a:link{
+    color: rebeccapurple;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: red;
+    background-color: chartreuse;
+    transition: 1s;
+}
+a:active{
+    color: blanchedalmond;
+}
